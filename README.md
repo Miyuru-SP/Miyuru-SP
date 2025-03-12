@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miyuru S Priyakantha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miyuru-sp&label=Profile%20views&color=0e75b6&style=flat" alt="miyuru-sp" /> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Miyuru-SP&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 📫 How to reach me **miyurusp@gmail.com**
 
